@@ -75,7 +75,7 @@ The program detects when the game changes from one state to another and performs
 
 ### Get Ready
 
-![Get Ready](getReady.jpeg)
+![Get Ready](getReady_.jpeg)
 
 ### Go
 
